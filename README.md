@@ -22,8 +22,9 @@
 ## 📊 Featured Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [**Apartment for Rent**](https://github.com/hessam458/apartment-for-rent) | Data cleaning, visualization (Power BI), and price prediction with ML | Python, Power BI, Scikit-learn |
+| [**Apartment for Rent**](https://github.com/hessam458/apartment-for-rent) | Data cleaning, visualization (Power BI), and price prediction with ML | Python, PostgreSQL, Power BI, Scikit-learn |
 | [**DVD Rental Dashboard**](https://github.com/hessam458/dvdrental-powerbi-dashboard) | Interactive BI dashboard with RLS | Power BI, SQL |
+| [**Pima Diabetes Prediction**](https://github.com/hessam458/pima-diabetes) | Handling missing values | Python |
 
 ---
 
