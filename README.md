@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Welcome Banner](https://i.imgur.com/0MZk1zZ.png)
+![Welcome Banner](Github_first_page.png)
 
 # Hi there, I'm Hessam! 👋
 
